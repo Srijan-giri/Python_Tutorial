@@ -4,7 +4,7 @@ print('Hello Srijan')
 
 print("\'Srijan Giri\'")
 print("Srijan Giri \n21 years old")
-print('I\'m harshit')
+print('I\'m harshit\'')
 print("'Hello'")
 print("name\tharshit")
 print("this is backslash \\\\")
